@@ -8,8 +8,8 @@ Este projeto implementa modelos para **classificação** e **detecção de objet
 ## 📁 Estrutura do Projeto
 
 ```
-├── models/               # Modelos treinados
-├── results/              # Resultados quantitativos e qualitativos
+├── checkpoints/          # Modelos treinados
+├── notebook.ipynb        # Arquivo principal com os modelos
 └── README.md             # Este arquivo
 ```
 
@@ -38,10 +38,10 @@ Este projeto implementa modelos para **classificação** e **detecção de objet
 
 ### Classificação Multimodal
 
-- **Imagem**: ResNet, ViT, CLIP-Vision
-- **Texto**: BERT, CLIP-Text
-- **Fusão**: concatenação ou atenção cruzada
-- **Saída**: classes via softmax ou sigmoid
+- **Imagem**: ResNet, Vision
+- **Texto**: -
+- **Fusão**: -
+- **Saída**: -
 
 ### Detecção de Objetos
 
