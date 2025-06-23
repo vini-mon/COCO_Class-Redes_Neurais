@@ -31,7 +31,7 @@ Este projeto implementa modelos para **classificação** e **detecção de objet
 ## 🔧 Pré-processamento
 
 - **Imagens**: redimensionamento e normalização.
-- **Legendas**: tokenização com modelos como BERT ou CLIP.
+- **Legendas**: -
 - **Detecção**: parsing das anotações COCO (bounding boxes e classes).
 
 ## 🧠 Modelos
@@ -62,8 +62,6 @@ Este projeto implementa modelos para **classificação** e **detecção de objet
 
 ## 📈 Avaliação
 
-- Classificação:
-  - Acurácia, Precision, Recall, F1-score
 - Detecção:
   - mAP@IoU=0.5
   - mAP@[.5:.95] (intervalo de IoUs)
@@ -93,6 +91,6 @@ cd COCO_Class-Redes_Neurais
 
 - Python 3
 - PyTorch, torchvision
-- Transformers (HuggingFace)
+- Transformers
 - OpenCV, matplotlib
 - COCO API
