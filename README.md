@@ -94,3 +94,12 @@ cd COCO_Class-Redes_Neurais
 - Transformers
 - OpenCV, matplotlib
 - COCO API
+
+## 👥 Integrantes
+
+- Fernando Lucas Vieira Souza 
+- Hector Bruno Bueno Figueira 
+- João Pedro Barbosa madeira 
+- Pedro Manicardi Soares 
+- Romulo Ferreira da Silva 
+- Vinícius Santos Monteiro 
