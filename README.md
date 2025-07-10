@@ -1,3 +1,8 @@
+# Acesso a última versão do modelo
+```
+https://www.kaggle.com/code/viniciusjamal/coco-classif
+```
+
 # 🧠 Classificação e Detecção Multimodal com COCO
 
 Este projeto implementa modelos para **classificação** e **detecção de objetos** utilizando dados multimodais (imagens e legendas) do dataset [COCO](https://cocodataset.org/). Ele explora duas abordagens complementares:
@@ -8,7 +13,6 @@ Este projeto implementa modelos para **classificação** e **detecção de objet
 ## 📁 Estrutura do Projeto
 
 ```
-├── checkpoints/          # Modelos treinados
 ├── notebook.ipynb        # Arquivo principal com os modelos
 └── README.md             # Este arquivo
 ```
